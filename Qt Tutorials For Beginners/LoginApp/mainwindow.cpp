@@ -1,4 +1,4 @@
-#include "mainwindow.h"
+    #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include <QMessageBox>
 
@@ -22,8 +22,10 @@ void MainWindow::on_Login_clicked()
 
     if(username == "AnhSon" && password == "Mr.JellyFish" ){
         QMessageBox::information(this,"Login","UserName and Password is correct");
+        //ui -> statusBar -> showMessage("UserName and Password is correct")
     }else{
         QMessageBox::warning(this,"Login","UserName and password is not correct");
+        //ui -> statusBar -> showMessage("UserName and Password is not correct")
     }
 }
 
