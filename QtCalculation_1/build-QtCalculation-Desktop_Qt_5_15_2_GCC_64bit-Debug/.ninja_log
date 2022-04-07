@@ -1,0 +1,12 @@
+# ninja log v5
+0	120	1649233779609590734	QtCalculation_autogen/timestamp	a54c6e91093867a9
+0	120	1649233779609590734	QtCalculation_autogen/mocs_compilation.cpp	a54c6e91093867a9
+0	120	1649233779609590734	/home/duke/3_dsaa/Example/Bai2_05/build-QtCalculation-Desktop_Qt_5_15_2_GCC_64bit-Debug/QtCalculation_autogen/timestamp	a54c6e91093867a9
+0	120	1649233779609590734	/home/duke/3_dsaa/Example/Bai2_05/build-QtCalculation-Desktop_Qt_5_15_2_GCC_64bit-Debug/QtCalculation_autogen/mocs_compilation.cpp	a54c6e91093867a9
+120	1600	1649233781089586000	CMakeFiles/QtCalculation.dir/QtCalculation_autogen/mocs_compilation.cpp.o	6b44c593e6ddf44
+120	1742	1649233781233585538	CMakeFiles/QtCalculation.dir/main.cpp.o	4299d5b41af2b7e4
+1	11	1649233817777468692	QtCalculation_autogen/timestamp	a54c6e91093867a9
+1	11	1649233817777468692	QtCalculation_autogen/mocs_compilation.cpp	a54c6e91093867a9
+1	11	1649233817777468692	/home/duke/3_dsaa/Example/Bai2_05/build-QtCalculation-Desktop_Qt_5_15_2_GCC_64bit-Debug/QtCalculation_autogen/timestamp	a54c6e91093867a9
+1	11	1649233817777468692	/home/duke/3_dsaa/Example/Bai2_05/build-QtCalculation-Desktop_Qt_5_15_2_GCC_64bit-Debug/QtCalculation_autogen/mocs_compilation.cpp	a54c6e91093867a9
+12	2066	1649233819829462136	CMakeFiles/QtCalculation.dir/qtcalculator.cpp.o	d6971fe4266511dc

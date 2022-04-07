@@ -1,0 +1,5 @@
+/home/duke/3_dsaa/Example/Bai2_05/build-QtCalculation-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/duke/3_dsaa/Example/Bai2_05/build-QtCalculation-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/duke/3_dsaa/Example/Bai2_05/build-QtCalculation-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/QtCalculation.dir
+/home/duke/3_dsaa/Example/Bai2_05/build-QtCalculation-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/QtCalculation_autogen_timestamp_deps.dir
+/home/duke/3_dsaa/Example/Bai2_05/build-QtCalculation-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/QtCalculation_autogen.dir
